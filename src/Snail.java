@@ -3,6 +3,10 @@ import java.util.stream.Collectors;
 
 public class Snail {
 
+    /* Given an n x n array, return the array elements arranged from outermost
+        elements to the middle element, traveling clockwise.
+     */
+
     public static int[] snail(int[][] array) {
 
         List<String> output = new ArrayList<>();
