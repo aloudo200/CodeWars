@@ -1,0 +1,3 @@
+package resources;
+
+public final class Neo extends Exception {}
